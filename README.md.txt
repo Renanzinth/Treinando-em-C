@@ -1,0 +1,1 @@
+Treinando em C, criando funções, funções globais e criação de bibliotecas.
